@@ -64,7 +64,7 @@ This repository contains the backend code for the  website, providing secure API
 
 ## **Tech Stack**  
 - **Framework**: Spring Boot  
-- **Database**: MySQL  
+- **Database**: MongoDB  
 - **Security**: JWT, OAuth  
 
 ## **Setup Instructions**  
