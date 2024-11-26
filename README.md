@@ -1,7 +1,7 @@
-### **Frontend Repository: Millet Odyssey Website**  
+### **Frontend Repository:  Website**  
 
 # Website - Frontend  
-This repository contains the frontend code for the Millet Odyssey website, a responsive platform built to promote millet-based initiatives. The frontend provides a seamless user experience with features like user management, role-based access control (RBAC), and dynamic content rendering.
+This repository contains the frontend code for the  website, a responsive platform built to promote millet-based initiatives. The frontend provides a seamless user experience with features like user management, role-based access control (RBAC), and dynamic content rendering.
 
 ## **Features**  
 - **User Management**: Add, edit, delete users and manage their statuses (Active/Inactive).  
@@ -51,10 +51,10 @@ Include screenshots or GIFs of the UI here to illustrate the features.
 
 ---
 
-### **Backend Repository: Millet Odyssey Website**  
+### **Backend Repository:  Website**  
 
-# Millet Odyssey Website - Backend  
-This repository contains the backend code for the Millet Odyssey website, providing secure APIs for user management, role management, and RBAC implementation.
+#  Website - Backend  
+This repository contains the backend code for the  website, providing secure APIs for user management, role management, and RBAC implementation.
 
 ## **Features**  
 - **User and Role Management APIs**: CRUD operations for users and roles.  
