@@ -1,7 +1,3 @@
-Here’s a detailed **README.md** file for both the **Frontend** and **Backend** repositories for GitHub. The backend and frontend are separated to align with the project’s structure.
-
----
-
 ### **Frontend Repository: Millet Odyssey Website**  
 
 # Millet Odyssey Website - Frontend  
