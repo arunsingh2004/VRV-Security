@@ -88,8 +88,8 @@ const Login = () => {
                       Signup
                     </button>
                   </Link>
-  
-                  <GoogleOAuthProvider clientId="910336459454-a1dkjm9joas6dpq7mhdem7kf5ldb2nkd.apps.googleusercontent.com">
+
+                  <GoogleOAuthProvider clientId="">
                     <div className="login-page">
                       <GoogleLogin
                         onSuccess={handleLoginSuccess}
