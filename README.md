@@ -1,6 +1,6 @@
 ### **Frontend Repository: Millet Odyssey Website**  
 
-# Millet Odyssey Website - Frontend  
+# Website - Frontend  
 This repository contains the frontend code for the Millet Odyssey website, a responsive platform built to promote millet-based initiatives. The frontend provides a seamless user experience with features like user management, role-based access control (RBAC), and dynamic content rendering.
 
 ## **Features**  
