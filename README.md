@@ -121,6 +121,3 @@ OAUTH_CLIENT_SECRET=<your_client_secret>
 - Validates all inputs to prevent SQL injection and XSS attacks.  
 - Ensures secure storage of sensitive data using encryption techniques.  
 
----
-
-These **README** files will ensure a comprehensive understanding of both repositories, helping users and developers to set up and contribute effectively. Let me know if you need further refinements!
